@@ -5,7 +5,8 @@
 This project is a deep learning–based seismic activity prediction system designed to analyze historical earthquake data and forecast regional seismic activity trends across Japan. The system combines spatial and temporal modeling using hybrid neural network architectures such as CNN-LSTM, CNN-GRU, LeNet-LSTM, and ResNet-LSTM.
 
 The project transforms raw earthquake records into structured spatial-temporal grid representations and predicts future seismic activity using past seismic patterns. Multiple visualization techniques including heatmaps, 3D surface plots, and interactive geographic maps are used to improve interpretability of predictions.
-
+![image alt](https://github.com/Ayushhhh188/Seismic-Activity-Rate/blob/main/outputs/Screenshot%202026-04-03%20004556.png)
+![image alt]()
 ## Features
 
 - Spatial-temporal seismic activity prediction
