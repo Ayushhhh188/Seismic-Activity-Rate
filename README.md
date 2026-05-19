@@ -8,11 +8,11 @@ The project transforms raw earthquake records into structured spatial-temporal g
 
 ![image alt](https://github.com/Ayushhhh188/Seismic-Activity-Rate/blob/main/outputs/Screenshot%202026-04-03%20004556.png)
 
-*Figure 1: Pattern for Earthquakes in japan between 2001-2018*
+*Image 1: Pattern for Earthquakes in japan between 2001-2018*
 
 ![image alt](https://github.com/Ayushhhh188/Seismic-Activity-Rate/blob/main/outputs/Screenshot%202026-04-06%20163434.png)
 
-*Figure 2: Predicted Seismic Activity for next 7 Days*
+*Image 2: Predicted Seismic Activity for next 7 Days*
 
 ## Features
 
@@ -189,17 +189,21 @@ The model performs:
 
 The project includes multiple visualization methods:
 
-    Heatmaps – Shows activity intensity across spatial grids.
+![image alt](https://github.com/Ayushhhh188/Seismic-Activity-Rate/blob/main/outputs/Figure_2.png)
 
-    3D Surface Plots – Visualizes seismic activity trends across time and regions.
+- Heatmaps – Shows activity intensity across spatial grids.
 
-    Line Graphs – Displays activity progression over forecast periods.
+![alt image](https://github.com/Ayushhhh188/Seismic-Activity-Rate/blob/main/outputs/Figure_1.png)
 
-    Interactive Japan Maps – Built using Folium to display:
+- *3D Surface Plots – Visualizes seismic activity trends across time and regions.*
+    
+- Line Graphs – Displays activity progression over forecast periods.
 
-        Historical earthquakes
+Interactive Japan Maps – Built using Folium to display:
 
-        Predicted regional activity
+- Historical earthquakes
+
+- Predicted regional activity
 
         
 
